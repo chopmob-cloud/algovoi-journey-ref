@@ -1,6 +1,5 @@
 # algovoi-journey-ref
 
-
 [![PyPI](https://img.shields.io/pypi/v/algovoi-journey-ref)](https://pypi.org/project/algovoi-journey-ref/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 Content-addressed journey references for the AlgoVoi substrate: bind a whole
